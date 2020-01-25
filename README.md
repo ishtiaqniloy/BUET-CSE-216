@@ -1,2 +1,2 @@
-# CSE_216_Practice_Offline_Online
-CSE 216 practice and offline-online
+# BUET-CSE-216
+This Repository contains the practice tasks and online assignments of CSE-216: Database Sessional
